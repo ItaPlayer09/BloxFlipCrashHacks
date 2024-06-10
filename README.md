@@ -4,11 +4,11 @@ it's accurancy lvl is about 85% rn and it will rise in the future bc whe only ha
 
 # Installation (Windows)
  
- - Make sure you have python installed(Download it from the microsoft store or from [here](https://www.python.org/downloads/))
+ - Make sure you have python installed (Download it from the microsoft store or from [here](https://www.python.org/downloads/))
  
  - Open a powershell with admin rights
  
- - Run the following commands:
+ - Run the following commands (skip for now, you will need this in the future):
    	- pip install 
    	- pip install 
  
