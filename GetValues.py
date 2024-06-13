@@ -2,6 +2,7 @@ import time
 import os
 from datetime import datetime
 
+os.system('title GetValuesScript')
 oggi = datetime.today().strftime('%Y%m%d')
 oggiSlashs = datetime.today().strftime('%d-%m-%Y')
 
