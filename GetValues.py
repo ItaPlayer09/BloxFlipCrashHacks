@@ -34,7 +34,7 @@ search_text = 'game end with '
 output_file = f"Valori{oggi}.txt"
 while True:
     time.sleep(1)
-    os.system('cls')
+    os.system('clear')
     print(f"Script is running on: {oggiSlashs}")
     find_and_read_next(file_path, search_text, output_file)
 
