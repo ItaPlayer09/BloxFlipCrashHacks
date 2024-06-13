@@ -30,7 +30,7 @@ def main():
 
         while True:  # Infinite loop
             time.sleep(1)
-            os.system('cls')
+            os.system('clear')
 
             with open(filename, 'r') as infile:
                 numbers = [float(line) for line in infile]
